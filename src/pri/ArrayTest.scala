@@ -1,4 +1,4 @@
-package pri.my.dome
+package pri
 
 import scala.collection.mutable._
 

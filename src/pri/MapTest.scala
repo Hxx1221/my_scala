@@ -1,5 +1,4 @@
-package pri.my.dome
-
+package pri
 
 /**
   * 集合的常用操作

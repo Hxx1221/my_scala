@@ -1,4 +1,4 @@
-package pri.my.dome
+package pri
 
 object MainTest extends App {
 

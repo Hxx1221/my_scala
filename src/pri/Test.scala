@@ -1,4 +1,4 @@
-package pri.my.dome
+package pri
 
 object Test extends App {
   val a: Int = 0

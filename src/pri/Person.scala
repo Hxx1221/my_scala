@@ -1,4 +1,4 @@
-package pri.my.dome
+package pri
 
 class Person {
   private var name: String = _
